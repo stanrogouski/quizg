@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f6c1378.css",
-    "main.js": "/static/js/main.076eb48f.js",
-    "static/js/453.9151b109.chunk.js": "/static/js/453.9151b109.chunk.js",
-    "index.html": "/index.html",
-    "main.1f6c1378.css.map": "/static/css/main.1f6c1378.css.map",
-    "main.076eb48f.js.map": "/static/js/main.076eb48f.js.map",
-    "453.9151b109.chunk.js.map": "/static/js/453.9151b109.chunk.js.map"
+    "main.css": "/gaza-quiz/static/css/main.1f6c1378.css",
+    "main.js": "/gaza-quiz/static/js/main.bdc0249c.js",
+    "static/js/453.9151b109.chunk.js": "/gaza-quiz/static/js/453.9151b109.chunk.js",
+    "index.html": "/gaza-quiz/index.html",
+    "main.1f6c1378.css.map": "/gaza-quiz/static/css/main.1f6c1378.css.map",
+    "main.bdc0249c.js.map": "/gaza-quiz/static/js/main.bdc0249c.js.map",
+    "453.9151b109.chunk.js.map": "/gaza-quiz/static/js/453.9151b109.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f6c1378.css",
-    "static/js/main.076eb48f.js"
+    "static/js/main.bdc0249c.js"
   ]
 }
